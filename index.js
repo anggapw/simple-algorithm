@@ -31,8 +31,6 @@ for (let a = meja.length - 1; a > 0; a--) {
     meja[b] = temp;
 }
 
-console.log(meja)
-
 console.log('Anda mendapatkan kartu:');
 
 for (let a = 0; a < 5; a++) {
